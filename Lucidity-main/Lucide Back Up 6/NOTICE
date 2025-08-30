@@ -1,0 +1,13 @@
+Lucide – Intelligent Overlay Assistant
+
+This product includes code from the "Cluely" project (https://github.com/Prat011/free-cluely)
+licensed under the Apache License, Version&nbsp;2.0.
+
+Modifications made by the Lucide project team in 2025:
+
+* Full rebranding to "Lucide".
+* Updated UI and UX.
+* Added ethical mode by default.
+* Added OCR toggle and settings panel.
+* Updated AI model integration via `.env` variables.
+* Extended features for sales, support and onboarding.
